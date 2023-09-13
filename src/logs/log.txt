@@ -1,0 +1,57 @@
+03/06/2023 09:57:06----/api/v1/productss----POST----Not Found
+03/06/2023 09:57:36----/api/v1/productss----POST----Not Found
+03/06/2023 10:00:45----idError----7b168ecf-1e8e-42d3-88bb-1f77935d940f----/api/v1/productss----POST----Not Found
+03/06/2023 22:20:20----idError----c3cabf0b-048a-429c-ad73-dbcdcf6d9911----/api/v1/shop/logout----POST----Invalid request
+04/06/2023 09:45:16----idError----1615413f-dbf1-4a5a-abfd-4c16aea62d57----/api/v1/shop/refresh----GET----Not Found
+04/06/2023 09:46:35----idError----12b48977-c3e5-4027-b6df-ee9f84e7442f----/api/v1/shop/refresh----GET----Cannot read properties of undefined (reading 'userId')
+04/06/2023 09:48:47----idError----56d3c486-18b5-48c1-bae0-6901b14c19c0----/api/v1/shop/refresh----GET----Cannot read properties of undefined (reading 'userId')
+04/06/2023 09:52:58----idError----34606e9c-c05c-4e58-ba75-ae0c20a1b77e----/api/v1/shop/refresh----GET----Cannot read properties of undefined (reading 'includes')
+04/06/2023 09:54:14----idError----914cfc67-1645-4ed6-9e20-31ec3c8609cb----/api/v1/shop/refresh----GET----Cannot read properties of undefined (reading 'includes')
+04/06/2023 09:55:15----idError----f3eff37e-aac2-4fff-b934-f9b14a569e86----/api/v1/shop/refresh----GET----Shop not found
+04/06/2023 09:56:31----idError----8d34e08f-ab4e-41de-ac3c-1c79d99f68e7----/api/v1/shop/refresh----GET----Shop not found
+04/06/2023 09:57:11----idError----c9fc3d4c-5194-49b8-9602-68333c7a1801----/api/v1/shop/refresh----GET----Shop not found 1
+04/06/2023 09:59:26----idError----dbdf1ae4-6c4a-44c8-831f-1701e45a5598----/api/v1/shop/refresh----GET----Shop not found 1
+04/06/2023 10:00:39----idError----66e38ead-5522-4240-8626-af65af5edeaf----/api/v1/shop/refresh----GET----Shop not found 1
+04/06/2023 10:01:59----idError----cb6ba691-10f8-4302-87a8-0a44168593fb----/api/v1/shop/refresh----GET----(0 , _shop2.findByEmail)(...).lean is not a function
+04/06/2023 10:02:38----idError----bb884b9a-ea3f-4336-8f61-49a880f0d3a6----/api/v1/shop/refresh----GET----keyStore.update is not a function
+04/06/2023 10:04:53----idError----9310dbc2-7e00-404c-b762-3297570d0fa0----/api/v1/shop/refresh----GET----_keytoken.default.update is not a function
+04/06/2023 10:12:17----idError----370e0173-6e13-4d51-b56e-b28884cdab9c----/api/v1/shop/refresh----GET----keyStore.updateOne is not a function
+04/06/2023 10:14:24----idError----0c0171da-12b5-4a57-9cf5-ce3088d82aa3----/api/v1/shop/refresh----GET----keyStore.update is not a function
+04/06/2023 10:15:57----idError----ed28442d-69c7-4d73-aebf-ce041c62b661----/api/v1/shop/refresh----GET----keyStore.update is not a function
+04/06/2023 10:18:33----idError----17b574ed-077a-496e-8e69-2b4cfd9b2994----/api/v1/shop/refresh----GET----keyStore.updateOne is not a function
+04/06/2023 10:20:31----idError----9a4d1dec-b411-4e6c-a7e2-9ba66998fdd0----/api/v1/shop/refresh----GET----Shop not found 1
+04/06/2023 10:22:03----idError----dc244274-7efa-4c95-ad6a-30b4843c4351----/api/v1/shop/refresh----GET----Something went wrong
+04/06/2023 10:46:22----idError----c6d2ab9b-df20-4b0d-b253-00391b4bd139----/api/v1/products----POST----Cannot read properties of undefined (reading 'userId')
+04/06/2023 10:47:52----idError----cc40d761-23b9-4b21-89fd-38325f671bb9----/api/v1/products----POST----Cannot read properties of undefined (reading 'userId')
+04/06/2023 10:50:04----idError----14a3ae2a-5f94-46a1-9190-fedf5280eeea----/api/v1/products----POST----Cannot read properties of undefined (reading 'userId')
+04/06/2023 10:50:26----idError----52f07833-dcaf-44db-9887-c93b2ad4f17f----/api/v1/products----POST----Cannot read properties of undefined (reading 'userId')
+04/06/2023 10:51:03----idError----76a7ae89-25b4-440d-880b-8feade403680----/api/v1/products----POST----Cannot read properties of undefined (reading 'userId')
+04/06/2023 10:51:41----idError----04c15a07-d19f-40e9-848f-120cc3f0611e----/api/v1/products----POST----Cannot read properties of undefined (reading 'userId')
+04/06/2023 10:53:49----idError----60d3bfe5-ae68-4a2c-a455-c24ed52a5585----/api/v1/products----POST----Cannot read properties of undefined (reading 'userId')
+04/06/2023 10:54:32----idError----41a791fc-8342-4441-bcae-e2655d3c854d----/api/v1/products----POST----Cannot read properties of undefined (reading 'userId')
+04/06/2023 10:55:20----idError----b3217ef6-f929-471b-90e5-a81e91772202----/api/v1/products----POST----Cannot read properties of undefined (reading 'userId')
+04/06/2023 10:56:55----idError----618175fd-8915-483e-b0f2-0898ce68e1ee----/api/v1/products----POST----Cannot read properties of undefined (reading 'call')
+04/06/2023 10:59:40----idError----995ba4e5-8def-4c7a-b2e4-b932c3e0c8ea----/api/v1/products----POST----Cannot read properties of undefined (reading 'call')
+04/06/2023 16:27:32----idError----c33ac395-71af-4fd4-a83c-f03b619fbbcf----/api/v1/products/64780c9c855732718d7f3553----GET----fn is not a function
+04/06/2023 16:45:41----idError----cb5fe7fc-53f6-4d0a-8615-c7998779cfd1----/api/v1/products/publish/647c0c91e84f4c4eb14b18bd----POST----_product.default.publshProductByShopService is not a function
+04/06/2023 17:12:32----idError----8a0c18ed-38ad-401f-82d9-06a4d4c48764----/api/v1/products/search?keySearch=sma----GET----Cast to ObjectId failed for value "search" (type string) at path "_id" for model "Product"
+04/06/2023 17:14:39----idError----aded5f8a-45bd-441e-9ad3-451eb6059118----/api/v1/products/search?keySearch=sma----GET----Cast to ObjectId failed for value "search" (type string) at path "_id" for model "Product"
+04/06/2023 17:15:21----idError----b65763ad-1040-47f8-93da-bef89dd6c411----/api/v1/products/search?keySearch=sma----GET----Cast to ObjectId failed for value "search" (type string) at path "_id" for model "Product"
+04/06/2023 17:16:34----idError----889b9206-86da-4e40-bb98-e8f2aedd08c9----/api/v1/products/search?keySearch=sma----GET----Cast to ObjectId failed for value "search" (type string) at path "_id" for model "Product"
+04/06/2023 17:17:26----idError----ab632580-c4e8-4c37-bacf-e7dc8f68d250----/api/v1/products/search?keySearch=sma----GET----Cast to ObjectId failed for value "search" (type string) at path "_id" for model "Product"
+04/06/2023 17:18:48----idError----9b7d2486-3264-4854-9d95-dbc7f9c43640----/api/v1/products/search?keySearch=sma----GET----Cast to ObjectId failed for value "search" (type string) at path "_id" for model "Product"
+04/06/2023 17:19:22----idError----ec3a7ae4-f9da-4df5-a301-e72da79b2325----/api/v1/products/search----GET----Cast to ObjectId failed for value "search" (type string) at path "_id" for model "Product"
+04/06/2023 17:22:36----idError----b4ebf68e-0f5a-40f1-9a64-ca062f84f753----/api/v1/products/search----GET----Cast to ObjectId failed for value "search" (type string) at path "_id" for model "Product"
+04/06/2023 17:23:22----idError----9e3f6186-ba8e-4edb-a2c7-9ec5ee73681e----/api/v1/products/search----GET----Cast to ObjectId failed for value "search" (type string) at path "_id" for model "Product"
+04/06/2023 17:25:24----idError----3b053883-fcca-47e8-ab4d-8f32e0a73d5d----/api/v1/products/search----GET----Cast to ObjectId failed for value "search" (type string) at path "_id" for model "Product"
+04/06/2023 17:26:15----idError----9152aab8-8fe6-4e8f-9495-649517fdafc1----/api/v1/products/searchs----GET----Cast to ObjectId failed for value "searchs" (type string) at path "_id" for model "Product"
+04/06/2023 17:28:18----idError----858b9804-5fb5-412b-9723-5563a986fdd1----/api/v1/products/search----GET----Cast to ObjectId failed for value "search" (type string) at path "_id" for model "Product"
+04/06/2023 17:30:59----idError----ccb93f14-6ec4-4b83-884c-979dc4863b52----/api/v1/products/search----GET----Cast to ObjectId failed for value "search" (type string) at path "_id" for model "Product"
+04/06/2023 17:33:47----idError----fc4e162c-55e3-43bf-8b73-377930f3574f----/api/v1/products/abc----GET----Cast to ObjectId failed for value "abc" (type string) at path "_id" for model "Product"
+04/06/2023 17:35:26----idError----e1a2496e-66cd-410f-8bee-24f3d72c98d2----/api/v1/products/search?keySearch=sma----GET----Cannot set headers after they are sent to the client
+04/06/2023 17:42:03----idError----ff5515a3-32b8-44ac-86ca-1b8e6beb3ebf----/api/v1/products/search?keySearch=sma----GET----Operation `Apikeys.insertOne()` buffering timed out after 10000ms
+04/06/2023 20:02:30----idError----1af2f1e1-c1e7-4c56-890f-1ff58695440a----/api/v1/products/search?keySearch=smart%20phones----GET----query requires text score metadata, but it is not available
+04/06/2023 20:02:59----idError----74ea5373-99f3-4b92-b921-f391baf053d0----/api/v1/products/search?keySearch=smart%20phones----GET----query requires text score metadata, but it is not available
+04/06/2023 20:18:19----idError----083334f9-1ad6-4442-8158-5b9f2e44ac1c----/api/v1/products/search----GET----Cast to ObjectId failed for value "search" (type string) at path "_id" for model "Product"
+04/06/2023 20:19:05----idError----f0c28a32-a615-4bcf-a43f-ae3cbe08df1d----/api/v1/products/search----GET----Not Found
+04/06/2023 20:27:55----idError----79e9188a-5432-42a1-881a-93b74ed0665a----/api/v1/products/search----POST----(intermediate value) is not a function
